@@ -16,4 +16,4 @@ jobs:
         python-version: 3.x
 
     - name: Run Hello World
-      run: python hola_mundo.py
+      run: python holaMundo.py
